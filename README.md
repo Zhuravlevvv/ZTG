@@ -15,7 +15,7 @@
 
 ## Скачать
 
-- **Windows:** https://disk.yandex.ru/d/70NoyCdklJM-5w
+- **Windows:** будет в скором времени.
 - **macOS:** https://disk.yandex.ru/d/L9YciO-MIksXaQ
 - **Исходный код:** https://disk.yandex.ru/d/XGsmKqKAOpmW8Q
 
